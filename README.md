@@ -1,7 +1,3 @@
-# combine_create_readme.py
-
-# Define the README content
-readme_content = """
 # Cairo - 403 Bypass Tool
 
 Cairo is a Python-based penetration testing tool designed to help security researchers and ethical hackers test and bypass **403 Forbidden** HTTP responses. It leverages various payloads, headers, and encoding techniques to identify potential misconfigurations that allow access to restricted resources.
